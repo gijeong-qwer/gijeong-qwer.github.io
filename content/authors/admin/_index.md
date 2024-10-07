@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
-
+title: 박기정
 # Is this the primary user of the site?
 superuser: true
 
@@ -18,7 +17,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Electronic engineering
 
 #interests:
 #- Artificial Intelligence
