@@ -50,8 +50,9 @@ sections:
           captcha: false
       # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
-         latitude: '35.848292'
-         longitude: '127.131965'
+        latitude: '35.848292'
+        longitude: '127.131965'
+   
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
