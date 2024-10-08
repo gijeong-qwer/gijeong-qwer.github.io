@@ -39,7 +39,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
     logo:
       text: ""
       filename: "icon.png"
@@ -109,3 +109,5 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
+ogImage: "icon.png"
