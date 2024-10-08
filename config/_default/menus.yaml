@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name : contact
-     url : contact/
-     weight : 50
+    url : contact/
+    weight : 50
