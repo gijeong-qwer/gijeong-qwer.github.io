@@ -88,12 +88,13 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: 'wowchemy'
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: true
+      show_logo: false
+      
   map:
     provider: ''
     api_key: ''
@@ -105,3 +106,4 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
