@@ -10,8 +10,8 @@ sections:
       subtitle: ''
       text: ''
       # Contact details - edit or remove options as needed
-      email: test@example.org
-      phone: 888 888 88 88
+      email: gjakdoo@jbnu.ac.kr
+      phone: 010-4614-9266
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
