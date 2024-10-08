@@ -3,7 +3,7 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-ako:
+ko:
   languageCode: ko-kr
   contentDir: content/ko
 
