@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 박기정 포트폴리오 # Website name
+title: 박기정 웹사이트 # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
