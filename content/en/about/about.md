@@ -18,4 +18,9 @@ title: Hello
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
+
+content:
+  coordinates:
+    latitude: '37.4275'
+    longitude: '-122.1697'
 ---
