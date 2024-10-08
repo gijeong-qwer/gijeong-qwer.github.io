@@ -20,7 +20,7 @@ main:
     url : contact/
     weight : 50
 
-  - name : notice board
+  - name : noticeboard
     
     url : notice/
     weight : 60
