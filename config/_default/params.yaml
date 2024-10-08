@@ -96,7 +96,7 @@ features:
       show_logo: false
       
   map:
-    provider: ''
+    provider: 'wowchemy'
     api_key: ''
     zoom: 15
 
