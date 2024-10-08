@@ -26,15 +26,15 @@ main:
     weight : 60
 
   - name : notice
-    parents: noticeboard 
+    parent: noticeboard 
     url : a/
     weight : 61
 
   - name : board
-    parents: noticeboard 
+    parent: noticeboard 
     url : b/
     weight : 62
   - name : comment
-    parents: noticeboard 
+    parent: noticeboard 
     url : c/
     weight : 63
