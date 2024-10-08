@@ -13,7 +13,7 @@ main:
   - name: about
     url: about2/
     weight: 30
-   - name: project
+  - name: project
     url: project/ 
     weight: 40 
   - name : contact
