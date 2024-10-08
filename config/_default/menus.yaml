@@ -21,7 +21,7 @@ main:
     weight : 50
 
   - name : notice board
-    identifier: noticeboard 
+    
     url : notice/
     weight : 60
 
