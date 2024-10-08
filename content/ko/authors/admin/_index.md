@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Park Gi Jeong
+title: 박기정
 # Is this the primary user of the site?
 superuser: true
 
