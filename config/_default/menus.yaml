@@ -21,5 +21,20 @@ main:
     weight : 50
 
   - name : notice board
+    identifier: noticeboard 
     url : notice/
     weight : 60
+
+  - name : notice
+    identifier: noticeboard 
+    url : notice/a/
+    weight : 10
+
+  - name : board
+    identifier: noticeboard 
+    url : notice/b/
+    weight : 20
+  - name : comment
+    identifier: noticeboard 
+    url : notice/c/
+    weight : 30
