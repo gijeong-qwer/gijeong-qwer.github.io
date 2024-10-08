@@ -1,3 +1,6 @@
 ---
 title : Contact
+
+type : landing
+
 ---
