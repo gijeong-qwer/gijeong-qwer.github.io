@@ -28,13 +28,13 @@ main:
   - name : notice
     identifier: noticeboard 
     url : notice/a/
-    weight : 10
+    weight : 61
 
   - name : board
     identifier: noticeboard 
     url : notice/b/
-    weight : 20
+    weight : 62
   - name : comment
     identifier: noticeboard 
     url : notice/c/
-    weight : 30
+    weight : 63
