@@ -19,8 +19,5 @@ title: Hello
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
 
-content:
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+
 ---
