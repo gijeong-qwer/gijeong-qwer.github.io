@@ -28,9 +28,9 @@ experience:
     company_logo: org-x
     location: Jeon-ju
     date_start: '2017-01-01'
-    date_end: '2025-01-01'
+    date_end: '2025-02-01'
     description: |2-
-        전자공학부
+        전자공학부 재학중
 
   
 
