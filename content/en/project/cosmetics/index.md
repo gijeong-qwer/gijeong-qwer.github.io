@@ -1,6 +1,6 @@
 ---
-title: 라디오 제작
-summary: 회로의 시작부터 끝까지 직접 제작한 경험
+title: Radio production
+summary: Experience in designing and creating the circuit from start to finish
 tags:
   - NLP
 date: 2022-01-01
