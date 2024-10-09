@@ -14,13 +14,13 @@ sections:
       phone: 010-4614-9266
       appointment_url: 'https://calendly.com'
       address:
-        street: 567 Baekje-daero, Deokjin-gu, Jeonju, Jeollabuk-do
+        street: 450 Serra Mall
         city: JeonJu
         region: CA
         postcode: '94305'
         country: United States
         country_code: US
-      directions: center of UNIV
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         -'I am available at any time.'
      
