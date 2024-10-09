@@ -70,4 +70,4 @@ social:
 
 안녕하세요 전북대 전자공학부 박기정입니다
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} PDF 다운로드
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} PDF 클릭
