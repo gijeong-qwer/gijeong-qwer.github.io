@@ -1,5 +1,5 @@
 ---
-title: 회로 설계 및 제작
+title: 라디오 제작
 summary: 회로의 시작부터 끝까지 직접 제작한 경험
 tags:
   - NLP
