@@ -14,21 +14,21 @@ sections:
       phone: 010-4614-9266
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: 567 Baekje-daero, Deokjin-gu, Jeonju, Jeollabuk-do
+        city: JeonJu
         region: CA
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: center of UNIV
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        -'I am available at any time.'
+     
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/gjakdoo
         - icon: skype
           icon_pack: fab
           name: Skype Me
