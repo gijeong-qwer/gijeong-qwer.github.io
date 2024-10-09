@@ -68,6 +68,6 @@ social:
 #email: ""
 ---
 
-안녕하세요 전북대 전자공학부 박기정입니다
+Hello, I am gi-jeong Park from the Department of Electronic Engineering at Jeonbuk National University.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} PDF 클릭
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} click PDF
